@@ -33,7 +33,7 @@ Every page must push visitors toward:
 - Sending a WhatsApp enquiry
 - Submitting the customer enquiry form
 
-Primary Contact Number: **06186357267**
+Primary Contact Number: **8092901860**
 
 ---
 
@@ -108,7 +108,7 @@ Use proper semantic HTML, page titles, meta descriptions, headings, image alt te
 
 ### 9. Contact Rules
 
-Use **06186357267** consistently for the phone and WhatsApp CTA unless explicitly changed by the project owner.
+Use **8092901860** consistently for the phone and WhatsApp CTA unless explicitly changed by the project owner.
 
 ---
 
